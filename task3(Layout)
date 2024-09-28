@@ -1,0 +1,12 @@
+<div class="flex">
+  <div class="flex-1">Flex Item 1</div>
+  <div class="flex-1">Flex Item 2</div>
+</div>(flexbox)
+
+<div class="grid grid-cols-3 gap-4">
+  <div>Grid Item 1</div>
+  <div>Grid Item 2</div>
+  <div>Grid Item 3</div>
+</div>(Grid)
+
+<div class="w-1/2">This div is half the width of its container</div>(width)
