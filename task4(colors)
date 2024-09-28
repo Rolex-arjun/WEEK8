@@ -1,0 +1,3 @@
+<div class="bg-green-500">This div has a green background</div>(backgroundcolor)
+<div class="border border-red-500">This div has a red border</div>(border color)
+<p class="text-yellow-500">This text is yellow</p>(text color)
