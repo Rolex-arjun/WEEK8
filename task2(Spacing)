@@ -1,0 +1,6 @@
+<div class="m-4">This div has a margin of 1rem</div>(Margin)
+<div class="p-4">This div has padding of 1rem</div>(padding)
+<div class="grid grid-cols-2 gap-4">
+  <div>Item 1</div>
+  <div>Item 2</div>
+</div>(Gap)
