@@ -1,0 +1,3 @@
+<div class="relative">
+  <div class="absolute top-0 right-0">Positioned in the top-right corner</div>
+</div>(absolute positioning)
