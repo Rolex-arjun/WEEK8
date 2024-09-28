@@ -1,0 +1,4 @@
+<p class="text-xl">This is extra-large text</p>(Font size)
+<p class="font-bold">This is bold text</p>(Font weight)
+<p class="text-blue-500">This is blue text</p>(text colour)
+<p class="leading-loose">This is text with loose line spacing</p>(Line height)
